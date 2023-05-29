@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useState } from "react"; // hook, funcionque le da la habilidad extra(state)
 
 const Contador = () => {
 //aqui creo mi estado
